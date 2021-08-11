@@ -1,0 +1,65 @@
+.lineThrough {
+  text-decoration: line-through;
+}
+
+.card {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-color: transparent;
+}
+
+.navbar-brand {
+  font-size: small;
+}
+
+h1 {
+  font-size: larger;
+}
+
+:placeholder-shown,
+.list-group {
+  font-size: x-small;
+}
+
+input#searchField.form-control-me-2 {
+  padding: 0;
+}
+
+.btn {
+  color: white;
+}
+
+.btn-info {
+  background-color: #5ce1e6;
+}
+
+.btn-success {
+  background-color: black;
+}
+
+div > button.btn.btn-info,
+div > button.btn.btn-danger,
+div > button.btn.btn-success {
+  margin-bottom: 3px;
+}
+
+button.btn.btn-info,
+button.btn.btn-danger,
+button.btn.btn-success {
+  font-size: small;
+}
+
+.footer-contr {
+  border-top: 5px solid #5ce1e6;
+}
+
+#logo-image {
+  width: 37%;
+  padding-top: 15px;
+}
+
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
