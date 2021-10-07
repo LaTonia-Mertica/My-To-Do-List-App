@@ -1,4 +1,4 @@
-# My-To-Do-List-App
+# My To-Do List App
 
 ###### <a href="https://www.latoniamertica.dev/My-To-Do-List-App/" target="_blank">visit My To-Do List App by La'Tonia Mertica</a>
 <br>
