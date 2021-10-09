@@ -1,4 +1,13 @@
 # My To-Do List App
+*solid exercise for objects nested in a list, updateHTML, preventDefault(), push() method, splice, template literals, includes() method, and for loop with if statement ...*
+
+**HOW WORKS**
+<br>
+enter task, add to list, reset list, edit, delete, mark as done, and search items in list
+
+**NEXT STEP**
+<br>
+set code to replace placeholder items 1 through 3, populating added items to the top of the list and down **or** top then on top of top for each successive addition
 
 ###### <a href="https://www.latoniamertica.dev/My-To-Do-List-App/" target="_blank">visit My To-Do List App by La'Tonia Mertica</a>
 <br>
